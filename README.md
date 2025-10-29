@@ -1,6 +1,6 @@
 SuanggiCrypt 🔒
 
-Encryption & Decryption Tools dengan Double Layer Protection
+Encryption & Decryption Tools dengan Hybrid Custom Encryption 
 
 📋 Deskripsi
 
