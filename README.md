@@ -1,10 +1,10 @@
 SuanggiCrypt 🔒
 
-Advanced Encryption & Decryption Tool dengan Double Layer Protection
+Encryption & Decryption Tools dengan Double Layer Protection
 
 📋 Deskripsi
 
-SuanggiCrypt adalah alat enkripsi dan dekripsi yang aman dan mudah digunakan. Dibangun dengan teknologi modern, alat ini menggabungkan custom encryption algorithm dengan AES encryption untuk memberikan keamanan berlapis.
+SuanggiCrypt adalah tools hasil iseng yang dibuat ketika belajar mengenai caesar cipher dimana alat ini menggabungkan custom encryption algorithm dengan AES encryption untuk memberikan keamanan berlapis tetapi masih dalam tahap pengembangan.
 
 ✨ Fitur Utama
 
