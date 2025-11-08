@@ -12,7 +12,7 @@ SuanggiCrypt adalah tools hasil iseng yang dibuat ketika belajar mengenai caesar
 🔐 Double Layer Encryption - Kombinasi algoritma custom + AES
 
 
-🚀 Proses Lokal - Semua data diproses di browser Anda
+🚀 Proses Lokal - Semua data diproses di browser
 
 
 📱 Responsif - Bekerja optimal di desktop dan mobile
